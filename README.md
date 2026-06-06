@@ -19,5 +19,5 @@ streamlit run app.py
 
 This app is deployed on Railway. The start command is:
 ```
-streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+streamlit run 'app..py' --server.port $PORT --server.address 0.0.0.0
 ```
