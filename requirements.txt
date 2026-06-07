@@ -1,8 +1,8 @@
 streamlit
+langchain
+langchain-community
 chromadb
 sentence-transformers
-transformers==4.40.2
+openai
+pypdf
 torch
-sentencepiece
-accelerate
-langchain-text-splitters
