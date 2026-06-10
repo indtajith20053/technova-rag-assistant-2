@@ -18,7 +18,7 @@ Built as **CAIEP Project 02** to demonstrate a production-grade RAG pipeline usi
 
 ## 🚀 Live Demo
 
-👉 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/Indrajithjay/tenova-rag-assistant)**
+👉 **[Try it live on Hugging Face Spaces]([https://huggingface.co/spaces/Indrajithjay/tenova-rag-assistant](https://huggingface.co/spaces/Indrajithjay/tnova-rag-assistant))**
 
 Example questions to try:
 
