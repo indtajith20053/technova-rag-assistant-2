@@ -2,7 +2,7 @@
 
 > A fully functional Retrieval-Augmented Generation (RAG) chatbot built with 100% free, open-source AI — no API keys, no cloud costs, runs entirely locally.
 
-[![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/Indrajithjay/tenova-rag-assistant)
+[![Live Demo].(https://huggingface.co/spaces/Indrajithjay/tnova-rag-assistant)
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
